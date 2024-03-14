@@ -35,9 +35,10 @@ class MyApp extends StatelessWidget {
                       shape: BoxShape.circle,
                       color: Colors.yellow,
                     ),
-                    child: const Icon(
-                      Icons.person,
-                      size: 30,
+                    child: Image.asset(
+                      "assets/avatar-icon-png-11.png",
+                      width: 100,
+                      height: 100,
                     ),
                   ),
                   const SizedBox(
