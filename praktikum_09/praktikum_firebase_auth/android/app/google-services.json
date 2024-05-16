@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "1005308803381",
+    "project_id": "fir-mansur-915f7",
+    "storage_bucket": "fir-mansur-915f7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1005308803381:android:ee38c23c64d456fd41347c",
+        "android_client_info": {
+          "package_name": "com.example.firebase_auth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDY3UNImG3ndQ144I1_DeYpjVx9U8X7Gok"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1005308803381:android:fc4fdbbcaa41cb7c41347c",
+        "android_client_info": {
+          "package_name": "com.example.pertemuan9"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDY3UNImG3ndQ144I1_DeYpjVx9U8X7Gok"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1005308803381:android:b62ae7766dff23ae41347c",
+        "android_client_info": {
+          "package_name": "com.example.praktikum_firebase_auth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDY3UNImG3ndQ144I1_DeYpjVx9U8X7Gok"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
